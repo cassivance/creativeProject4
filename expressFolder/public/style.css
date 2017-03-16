@@ -1,0 +1,21 @@
+body{
+    background-image: url("confetti.jpg");
+   background-repeat: no-repeat;
+   background-size: 100%;
+}
+
+h2{
+    position: absolute;
+    left: 18%;
+    top: 10%;
+    font-size: 5rem;
+    margin: 2rem;
+    color: #80317d;
+}
+
+form{
+    position: absolute;
+    top: 40%;
+    left: 25%;
+}
+
